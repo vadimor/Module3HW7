@@ -1,0 +1,11 @@
+{
+  "BackupConfig": {
+    "DirectoryBackup": "./Backup",
+    "TimeFormatFileName": "hh.mm.ss.fff dd.MM.yyyy"
+  },
+  "LogConfig": {
+    "DirectoryLog": "./Logger",
+    "BackupStep": "10",
+    "TimeFormatFileName": "hh.mm.ss dd.MM.yyyy"
+  }
+}
